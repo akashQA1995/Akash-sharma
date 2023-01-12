@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import POM_NewPackage1.GoogleSearchPage;    //import first package class
 
-public class GoogleSearchTestNG {
+public class GoogleSearchTestNG2 {
 	
 	private static WebDriver driver = null;
 	
