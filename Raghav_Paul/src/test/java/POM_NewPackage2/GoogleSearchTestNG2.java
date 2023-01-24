@@ -1,14 +1,11 @@
 package POM_NewPackage2;
 
 import org.testng.annotations.Test;
-import org.testng.annotations.Test;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
-
 import POM_NewPackage1.GoogleSearchPage;    //import first package class
 
 public class GoogleSearchTestNG2 {
